@@ -1,7 +1,7 @@
 # Predicting Social Personality
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Predicting_Social_Personality-brightgreen)](https://www.kaggle.com/competitions/playground-series-s5e7/overview)
 
-#Competition Summary
+##Competition Summary
 
 This project was developed as part of [Kaggle's Predict the Introverts from the Extroverts competition](https://www.kaggle.com/competitions/playground-series-s5e7/overview), where the goal was to classify individuals as Introverts or Extroverts based on their social behavior and personality traits.
 
