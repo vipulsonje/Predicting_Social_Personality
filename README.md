@@ -15,8 +15,8 @@
 This project was developed as part of [Kaggle's Predict the Introverts from the Extroverts competition](https://www.kaggle.com/competitions/playground-series-s5e7/overview), where the goal is to predict whether a person is an Introvert or Extrovert, given their social behavior and personality traits.The competition provided a rich dataset that enabled the application of various machine learning techniques. 
 
 # Motivation
-Behavioral Insight through Data Science: Can machine learning identify personality traits based on observable behavior?
-Psychometric & Personality Research: Helps validate or challenge existing psychological theories and bridges psychology and data science to find empirical patterns in personality assessments.
+* Behavioral Insight through Data Science: Can machine learning identify personality traits based on observable behavior?
+* Psychometric & Personality Research: Helps validate or challenge existing psychological theories and bridges psychology and data science to find empirical patterns in personality assessments.
 
 # Data Description
 Source: [https://www.kaggle.com/competitions/playground-series-s5e7/data](https://www.kaggle.com/competitions/playground-series-s5e7/data)
