@@ -1,6 +1,15 @@
 # Predicting Social Personality
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Predicting_Social_Personality-brightgreen)](https://www.kaggle.com/competitions/playground-series-s5e7/overview)
 
+#Competition Summary
+
+This project was developed as part of [Kaggle's Predict the Introverts from the Extroverts competition](https://www.kaggle.com/competitions/playground-series-s5e7/overview), where the goal was to classify individuals as Introverts or Extroverts based on their social behavior and personality traits.
+
+**Evaluation Metric:** Accuracy  
+**Final Accuracy:** 96.86% (0.9686), just 0.2% behind the top submission on the leaderboard.
+
+This was a challenging and insightful competition that allowed me to apply and fine-tune various classification models and ensemble techniques.
+
 # Table of Contents
 * [Project Overview](#project-overview)
 * [Motivation](#motivation)
@@ -12,7 +21,11 @@
 
 
 # Project Overview
-This project was developed as part of [Kaggle's Predict the Introverts from the Extroverts competition](https://www.kaggle.com/competitions/playground-series-s5e7/overview), where the goal is to predict whether a person is an Introvert or Extrovert, given their social behavior and personality traits.The competition provided a rich dataset that enabled the application of various machine learning techniques. 
+This project focuses on building a machine learning model to classify individuals as Introverts or Extroverts based on their social behavior and personality traits. Using a rich dataset provided by Kaggle’s July Playground Prediction Competition, I explored various behavioral indicators such as time spent alone, social event attendance, and feelings after socializing.
+
+The goal was to leverage supervised learning techniques to accurately predict personality types, providing insights into how quantifiable social behavior can reflect underlying personality traits.
+
+This work highlights the intersection of psychology and data science, demonstrating how machine learning can assist in understanding complex human characteristics.
 
 # Motivation
 * Behavioral Insight through Data Science: Can machine learning identify personality traits based on observable behavior?
