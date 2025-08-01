@@ -1,5 +1,5 @@
 # Predicting Social Personality
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Loan_Approval_Prediction-brightgreen)](https://www.kaggle.com/competitions/playground-series-s5e7/overview)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Predicting_Social_Personality-brightgreen)](https://www.kaggle.com/competitions/playground-series-s5e7/overview)
 
 # Table of Contents
 * [Project Overview](#project-overview)
